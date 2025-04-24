@@ -1,7 +1,5 @@
 # Previsão-dados-bancario
+Usando modelos de inteligência artificial para prever o tipo de cliente, utilizando simulação de dados bancários, tendo o Streamlit como interface
 
-usando modelos de intelegencia artifical para prever que tipo de cliente, esse banco tem dependendo dos dados fornecidos, se ele e um cliente bom,mau, ou starder,
-usando 3 modelos de intelegencia artificial 
-usando streamlit para desenvolver uma interface dinamica 
-nesse projeto o maior desafio e a preparacao dos dados
+CAPTURA DE TELA DO APP
 ![streamli_1](https://github.com/user-attachments/assets/a8d6a836-8068-42ac-ad7e-40ba6a94a3ee)
