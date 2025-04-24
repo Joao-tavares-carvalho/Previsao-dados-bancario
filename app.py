@@ -1,4 +1,4 @@
-#passos para desenvolver o algoritimo de previsao bancaria: Usando o algoritimo KNN -> Vizinhos Próximos
+#passos para desenvolver o algoritimo de previsao bancaria
 # 1 ter uma base de dados
 # 2 preparar os dados 
 # 3 treinar o algoritimo 
